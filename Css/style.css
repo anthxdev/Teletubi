@@ -21,6 +21,7 @@ body {
   z-index: 9999;
 }
 
+
 #fireworks-canvas {
   position: fixed;
   top: 0;
@@ -106,10 +107,9 @@ body::before {
 
   margin: auto;
 
-  min-width: 320px;
-  max-width: 600px;
+  max-width: 400px;
   width: 60rem;
-  font-size: 1.5rem;
+  font-size: 1rem;
   color: #050505;
   font-family: 'Courier New', Courier, monospace;
   white-space: pre-line;
